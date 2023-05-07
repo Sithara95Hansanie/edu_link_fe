@@ -1,6 +1,9 @@
-# HOW TO Run
+# HOW TO RUN PROJECT
+
 1.open terminal
+
 2.go to main derectory
+
 run php artisan serve
 
 npm run dev

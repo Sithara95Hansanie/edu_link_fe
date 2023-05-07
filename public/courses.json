@@ -1,0 +1,41 @@
+{
+    "title": "My Page Title",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "items": [
+        {
+            "title": "CIPD Level 3 Foundation Certificate in People Practice",
+            "duration": "1 year1",
+            "price":"1,199.00",
+            "old_price":"2,199.00",
+            "ratings":"4.6",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2022/09/MicrosoftTeams-image-6-310x143.jpg"
+        },
+        {
+            "title": "Foundation Certificate in Business Analysis",
+            "duration": "1 year1",
+            "price":"1,199.00",
+            "old_price":"2,199.00",
+            "ratings":"4.6",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2022/09/MicrosoftTeams-image-6-310x143.jpg"
+
+        },
+        {
+            "title": "PRINCE2® Practitioner",
+            "duration": "1 year1",
+            "price":"1,199.00",
+            "old_price":"2,199.00",
+            "ratings":"4.6",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2022/09/MicrosoftTeams-image-6-310x143.jpg"
+
+        },
+        {
+            "title": "PRINCE2® Foundation",
+            "duration": "1 year1",
+            "price":"1,199.00",
+            "old_price":"2,199.00",
+            "ratings":"4.6",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2022/09/MicrosoftTeams-image-6-310x143.jpg"
+
+        }
+    ]
+}

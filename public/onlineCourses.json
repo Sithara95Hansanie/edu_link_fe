@@ -1,0 +1,29 @@
+{
+    "title": "OUR POPULAR LIVE ONLINE COURSES",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "items": [
+        {
+            "title": "Pearson BTEC Level 3 Award in Education and Training (RQF)(Formerly PTLLS)",
+            "course_fee": "£219",
+            "image":"https://www.globaledulink.co.uk/wp-content/themes/wplms-child/assets/images/awarding-logo/image-6.png"
+        },
+        {
+            "title": "ITIL 4 Foundation",
+            "course_fee": "£589",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/09/ITIL.jpg"
+
+        },
+        {
+            "title": "Prince2 Foundation",
+            "course_fee": "£300",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/09/prince2.jpg"
+
+        },
+        {
+            "title": "Foundation Certificate in Business Analysis",
+            "course_fee": "£300",
+            "image":"https://www.globaledulink.co.uk/wp-content/themes/wplms-child/assets/images/awarding-logo/image-1.png"
+
+        }
+    ]
+}

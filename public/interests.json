@@ -1,0 +1,82 @@
+{
+    "title": "AREAS OF INTEREST",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "areas": [
+        {
+            "title": "Project Management",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/img-370.png"
+        },
+        {
+            "title": "Business & Management",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/img-368.png"
+
+        },
+        {
+            "title": "Teaching & Education",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/img-369.png"
+
+        },
+        {
+            "title": "Accounting & Finance",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/rectangle367.png"
+
+        },
+        {
+            "title": "Office Admin & Reception",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/img-371.png"
+        },
+        {
+            "title": "Hospitality Travel & Tourism",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/img-373.png"
+
+        },
+        {
+            "title": "Information Technology",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/img-372.png"
+
+        },
+        {
+            "title": "Health & Social Care",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/img-374.png"
+
+        },
+        {
+            "title": "Office Admin & Reception",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/img-371.png"
+        },
+        {
+            "title": "Hospitality Travel & Tourism",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/img-373.png"
+
+        },
+        {
+            "title": "Information Technology",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/img-372.png"
+
+        },
+        {
+            "title": "Health & Social Care",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/img-374.png"
+
+        },
+        {
+            "title": "Office Admin & Reception",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/img-371.png"
+        },
+        {
+            "title": "Hospitality Travel & Tourism",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/img-373.png"
+
+        },
+        {
+            "title": "Information Technology",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/img-372.png"
+
+        },
+        {
+            "title": "Health & Social Care",
+            "image":"https://www.globaledulink.co.uk/wp-content/uploads/2021/10/img-374.png"
+
+        }
+    ]
+}
